@@ -1,0 +1,2 @@
+# TEJ_API_Python_Efficient_Frontier_ProgramSample
+挑選台灣市場股票為標的，隨機給予N種投資權重，建立N個投資組合後，找出效率投資組合，並在風險(標準差)為X軸，報酬率為Y軸上繪製效率前緣曲線。
